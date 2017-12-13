@@ -58,6 +58,7 @@ All endpoint are listed [on their GitHub](https://github.com/NebulousLabs/Sia/bl
 
 
 Next steps
+ * Tests (Travis & co)
  * Read from config file
  * Create local fnc for each endpoint
  * ...
